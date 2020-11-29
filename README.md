@@ -4,5 +4,20 @@ Facebook Live has recently become a popular direct selling medium, notably in Ea
 ## Dataset
 The dataset can be downloaded at https://archive.ics.uci.edu/ml/datasets/Facebook+Live+Sellers+in+Thailand
 
+#### Data Set Information:
+The variability of consumer engagement is analysed through a Principal Component Analysis, highlighting the changes induced by the use of Facebook Live. The seasonal component is analysed through a study of the averages of the different engagement metrics for different time-frames (hourly, daily and monthly). Finally, we identify statistical outlier posts, that are qualitatively analyzed further, in terms of their selling approach and activities.
 
- 
+#### Attribute Information:
+status_id  
+status_type  
+status_published  
+num_reactions  
+num_comments  
+num_shares  
+num_likes  
+num_loves  
+num_wows  
+num_hahas  
+num_sads  
+num_angrys  
+
