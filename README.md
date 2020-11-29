@@ -3,6 +3,7 @@ Facebook Live has recently become a popular direct selling medium, notably in Ea
 
 ## Dataset
 The dataset can be downloaded at https://archive.ics.uci.edu/ml/datasets/Facebook+Live+Sellers+in+Thailand  
+
 ![Slide1](https://github.com/ikanurlaily/Clustering-Facebook-Sellers-in-Thailand/blob/main/image/uci.jpg)
 
 #### Data Set Information:
