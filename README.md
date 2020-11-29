@@ -23,3 +23,5 @@ num_hahas
 num_sads  
 num_angrys  
 
+## Result
+![slide2](https://github.com/ikanurlaily/Clustering-Facebook-Sellers-in-Thailand/blob/main/image/comparison.jpg)
